@@ -1,0 +1,10 @@
+
+.project
+.cproject
+**.user
+**/x64/
+**/.vs/
+bin/
+externals/
+**.pfx
+**/packages/
